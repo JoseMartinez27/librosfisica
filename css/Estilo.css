@@ -1,0 +1,68 @@
+body {
+font-family: 'Open sans';
+color: #333;
+margin: 0;
+
+}
+h1{
+	margin-bottom: 0 auto;
+	background:#c1dcf7be;	
+	text-align: center;	
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	box-shadow: black;
+	width: 85%;
+	top: 0;
+	left: 0;
+	padding: .7px;
+}
+
+p {
+	margin-bottom: .5em;
+	text-align: justify;
+	width: 85%;
+	padding: .7px;
+	margin: 0 auto;
+	top: 0;
+	left: 0;
+}
+.container {
+    width: 95%;
+    margin: 0 auto;
+	text-align: justify;
+	
+}
+
+.header { 
+    background: #34495E;
+	color: white;
+	
+}
+
+.bloque {	
+	margin-bottom: .5em;
+	color:white;
+	background-color: wheat;
+	width: 85%;
+	text-align: justify;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	padding: .7px;
+	position: relative;	
+	top: 0;
+	left: 0;
+		}
+
+main {
+	margin-bottom: .5em;
+	text-align: justify;
+	padding: .7px;
+	width: 85%;
+	margin: 0 auto;
+	top: 0;
+	left: 0;
+	
+}
+
+img {    
+	max-width: 100%;
+	height: auto;
+}
